@@ -1,0 +1,4 @@
+D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.DAL\bin\Debug\Midea.Mes.DAL.dll
+D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.DAL\bin\Debug\Midea.Mes.DAL.pdb
+D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.DAL\obj\Debug\Midea.Mes.DAL.dll
+D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.DAL\obj\Debug\Midea.Mes.DAL.pdb

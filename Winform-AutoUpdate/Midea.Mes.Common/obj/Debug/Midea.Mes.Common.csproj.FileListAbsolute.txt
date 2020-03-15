@@ -1,0 +1,5 @@
+D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Common\bin\Debug\Midea.Mes.Common.dll
+D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Common\bin\Debug\Midea.Mes.Common.pdb
+D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Common\obj\Debug\Midea.Mes.Common.dll
+D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Common\obj\Debug\Midea.Mes.Common.pdb
+D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Common\obj\Debug\Midea.Mes.Common.csprojAssemblyReference.cache

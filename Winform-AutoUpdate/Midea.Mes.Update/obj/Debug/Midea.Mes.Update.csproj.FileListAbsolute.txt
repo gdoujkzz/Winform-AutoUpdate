@@ -1,0 +1,10 @@
+D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Update\bin\Debug\Midea.Mes.Update.exe.config
+D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Update\bin\Debug\Midea.Mes.Update.exe
+D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Update\bin\Debug\Midea.Mes.Update.pdb
+D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Update\obj\Debug\Midea.Mes.Update.Properties.Resources.resources
+D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Update\obj\Debug\Midea.Mes.Update.UpdateFrm.resources
+D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Update\obj\Debug\Midea.Mes.Update.csproj.GenerateResource.cache
+D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Update\obj\Debug\Midea.Mes.Update.exe
+D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Update\obj\Debug\Midea.Mes.Update.pdb
+D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Update\obj\Debug\Midea.Mes.Update.UpdateStartFrm.resources
+D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Update\obj\Debug\Midea.Mes.Update.csprojAssemblyReference.cache

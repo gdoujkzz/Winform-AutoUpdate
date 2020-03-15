@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AutoUpdater>
+  <URLAddress URL="http://172.28.13.250:9000/" />
+  <UpdateInfo>
+    <Version num="1.0.0.1"/>
+    <UpdateTime date="2017-01-22"/>
+  </UpdateInfo>
+  <UpdateFileList>
+    <UpdateFile Ver="1.0.0.1" FileName="1.txt" ContentLength="1024"/>
+    <UpdateFile Ver="1.0.0.1" FileName="2.txt" ContentLength="1024"/>
+    <UpdateFile Ver="1.0.0.1" FileName="3.docx" ContentLength="1024"/>
+	 <UpdateFile Ver="1.0.0.1" FileName="4.docx" ContentLength="1024"/>
+  </UpdateFileList>
+</AutoUpdater>

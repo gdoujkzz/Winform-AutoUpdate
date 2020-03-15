@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Midea.Mes.DAL", "Midea.Mes.DAL\Midea.Mes.DAL.csproj", "{E511D19F-BE15-4D50-B81C-3B1BF946A75F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Midea.Mes.Common", "Midea.Mes.Common\Midea.Mes.Common.csproj", "{20108E89-F727-4D06-8BCC-72FE15732C19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Midea.Mes.BLL", "Midea.Mes.BLL\Midea.Mes.BLL.csproj", "{F774025A-F9BE-4585-B362-ADEBC5B58CBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Midea.Mes.Frm", "Midea.Mes.Frm\Midea.Mes.Frm.csproj", "{3D1974D0-48D2-4979-8805-C441D4B9EF06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Midea.Mes.Update", "Midea.Mes.Update\Midea.Mes.Update.csproj", "{AE848395-70F7-4517-A1D2-26C03803F832}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Midea.Mes.Generate", "Midea.Mes.Generate\Midea.Mes.Generate.csproj", "{3CE6283C-DFDA-404E-A281-DAB3E2094C04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E511D19F-BE15-4D50-B81C-3B1BF946A75F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E511D19F-BE15-4D50-B81C-3B1BF946A75F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E511D19F-BE15-4D50-B81C-3B1BF946A75F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E511D19F-BE15-4D50-B81C-3B1BF946A75F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20108E89-F727-4D06-8BCC-72FE15732C19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20108E89-F727-4D06-8BCC-72FE15732C19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20108E89-F727-4D06-8BCC-72FE15732C19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20108E89-F727-4D06-8BCC-72FE15732C19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F774025A-F9BE-4585-B362-ADEBC5B58CBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F774025A-F9BE-4585-B362-ADEBC5B58CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F774025A-F9BE-4585-B362-ADEBC5B58CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F774025A-F9BE-4585-B362-ADEBC5B58CBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D1974D0-48D2-4979-8805-C441D4B9EF06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D1974D0-48D2-4979-8805-C441D4B9EF06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D1974D0-48D2-4979-8805-C441D4B9EF06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D1974D0-48D2-4979-8805-C441D4B9EF06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE848395-70F7-4517-A1D2-26C03803F832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE848395-70F7-4517-A1D2-26C03803F832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE848395-70F7-4517-A1D2-26C03803F832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE848395-70F7-4517-A1D2-26C03803F832}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CE6283C-DFDA-404E-A281-DAB3E2094C04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CE6283C-DFDA-404E-A281-DAB3E2094C04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CE6283C-DFDA-404E-A281-DAB3E2094C04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CE6283C-DFDA-404E-A281-DAB3E2094C04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A7CCFFF-00E1-47BF-848E-7AB123C1B0D2}
+	EndGlobalSection
+EndGlobal
