@@ -27,7 +27,7 @@ namespace Midea.Mes.Generate
             var ignoredDir = ConfigurationManager.AppSettings["IgnoredDir"];
             var AdancedDay = ConfigurationManager.AppSettings["AddvancedDay"];
             string version = "1.0.0.1";
-            string url = "http://192.168.232.1:8090/";
+            string url = ConfigurationManager.AppSettings["URL"];
             string num = "1.0.0.1";
             string date = Convert.ToString(DateTime.Now.ToString("yyyy-MM-dd hh:mm:ss"));
             var updateFiles = GetUpdateFileModels(rootDir, version);
