@@ -36,6 +36,8 @@
             this.SystemMenu = new System.Windows.Forms.ToolStripMenuItem();
             this.关于我们ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.checkUpdateMenu = new System.Windows.Forms.ToolStripMenuItem();
+            this.生产标签打印ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.生产标签打印V10ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -55,6 +57,9 @@
             // 
             // 生产ToolStripMenuItem
             // 
+            this.生产ToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.生产标签打印ToolStripMenuItem,
+            this.生产标签打印V10ToolStripMenuItem});
             this.生产ToolStripMenuItem.Name = "生产ToolStripMenuItem";
             this.生产ToolStripMenuItem.Size = new System.Drawing.Size(44, 21);
             this.生产ToolStripMenuItem.Text = "生产";
@@ -99,6 +104,18 @@
             this.checkUpdateMenu.Text = "系统更新";
             this.checkUpdateMenu.Click += new System.EventHandler(this.checkUpdateMenu_Click);
             // 
+            // 生产标签打印ToolStripMenuItem
+            // 
+            this.生产标签打印ToolStripMenuItem.Name = "生产标签打印ToolStripMenuItem";
+            this.生产标签打印ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.生产标签打印ToolStripMenuItem.Text = "生产标签打印";
+            // 
+            // 生产标签打印V10ToolStripMenuItem
+            // 
+            this.生产标签打印V10ToolStripMenuItem.Name = "生产标签打印V10ToolStripMenuItem";
+            this.生产标签打印V10ToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.生产标签打印V10ToolStripMenuItem.Text = "生产标签打印V1.0";
+            // 
             // MainFrm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
@@ -125,6 +142,8 @@
         private System.Windows.Forms.ToolStripMenuItem SystemMenu;
         private System.Windows.Forms.ToolStripMenuItem 关于我们ToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem checkUpdateMenu;
+        private System.Windows.Forms.ToolStripMenuItem 生产标签打印ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem 生产标签打印V10ToolStripMenuItem;
     }
 }
 

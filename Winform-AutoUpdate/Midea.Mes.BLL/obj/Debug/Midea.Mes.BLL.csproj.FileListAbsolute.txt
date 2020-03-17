@@ -1,4 +1,0 @@
-D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.BLL\bin\Debug\Midea.Mes.BLL.dll
-D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.BLL\bin\Debug\Midea.Mes.BLL.pdb
-D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.BLL\obj\Debug\Midea.Mes.BLL.dll
-D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.BLL\obj\Debug\Midea.Mes.BLL.pdb

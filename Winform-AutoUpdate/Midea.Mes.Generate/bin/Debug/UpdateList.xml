@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AutoUpdater>
+  <UpdateFileList>
+    <UpdateFile Ver="1.0.0.1" FileName="Midea.Mes.Frm.exe" ContentLength="10240" />
+    <UpdateFile Ver="1.0.0.1" FileName="Midea.Mes.Frm.exe.config" ContentLength="187" />
+  </UpdateFileList>
+  <URLAddress URL="http://192.168.232.1:8090/" />
+  <UpdateInfo>
+    <Version Num="1.0.0.1" />
+    <UpdateTime Date="2020-03-17 07:50:43" />
+  </UpdateInfo>
+</AutoUpdater>

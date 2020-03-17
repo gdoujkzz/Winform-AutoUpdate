@@ -1,0 +1,8 @@
+D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Generate\bin\Debug\Midea.Mes.Generate.exe.config
+D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Generate\bin\Debug\Midea.Mes.Generate.exe
+D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Generate\bin\Debug\Midea.Mes.Generate.pdb
+D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Generate\obj\Debug\Midea.Mes.Generate.GenerateFrm.resources
+D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Generate\obj\Debug\Midea.Mes.Generate.Properties.Resources.resources
+D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Generate\obj\Debug\Midea.Mes.Generate.csproj.GenerateResource.cache
+D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Generate\obj\Debug\Midea.Mes.Generate.exe
+D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Generate\obj\Debug\Midea.Mes.Generate.pdb

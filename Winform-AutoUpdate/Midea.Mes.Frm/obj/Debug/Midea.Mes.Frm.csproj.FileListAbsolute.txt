@@ -1,13 +1,7 @@
 D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Frm\bin\Debug\Midea.Mes.Frm.exe.config
 D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Frm\bin\Debug\Midea.Mes.Frm.exe
 D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Frm\bin\Debug\Midea.Mes.Frm.pdb
-D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Frm\bin\Debug\Midea.Mes.BLL.dll
-D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Frm\bin\Debug\Midea.Mes.Common.dll
-D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Frm\bin\Debug\Midea.Mes.DAL.dll
 D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Frm\bin\Debug\Midea.Mes.Update.exe
-D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Frm\bin\Debug\Midea.Mes.BLL.pdb
-D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Frm\bin\Debug\Midea.Mes.Common.pdb
-D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Frm\bin\Debug\Midea.Mes.DAL.pdb
 D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Frm\bin\Debug\Midea.Mes.Update.pdb
 D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Frm\bin\Debug\Midea.Mes.Update.exe.config
 D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Frm\obj\Debug\Midea.Mes.Frm.csprojAssemblyReference.cache
@@ -17,4 +11,3 @@ D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Frm\obj\Debu
 D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Frm\obj\Debug\Midea.Mes.Frm.csproj.CopyComplete
 D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Frm\obj\Debug\Midea.Mes.Frm.exe
 D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Frm\obj\Debug\Midea.Mes.Frm.pdb
-D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.Mes.Frm\bin\Debug\Config\UpdateList.xml

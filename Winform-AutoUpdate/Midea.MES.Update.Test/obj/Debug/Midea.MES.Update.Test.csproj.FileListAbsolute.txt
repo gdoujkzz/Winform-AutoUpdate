@@ -1,0 +1,6 @@
+D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.MES.Update.Test\bin\Debug\Midea.MES.Update.Test.exe.config
+D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.MES.Update.Test\bin\Debug\Midea.MES.Update.Test.exe
+D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.MES.Update.Test\bin\Debug\Midea.MES.Update.Test.pdb
+D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.MES.Update.Test\obj\Debug\Midea.MES.Update.Test.exe
+D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.MES.Update.Test\obj\Debug\Midea.MES.Update.Test.pdb
+D:\other\csharpCode\Winform-AutoUpdate\Winform-AutoUpdate\Midea.MES.Update.Test\obj\Debug\Midea.MES.Update.Test.csprojAssemblyReference.cache

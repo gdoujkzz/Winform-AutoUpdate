@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AutoUpdater>
+  <URLAddress URL="www.baidu.com" />
+  <UpdateInfo Date="2020-03-17 02:50i:37">
+    <Version Num="1.0.0.1" />
+    <UpdateTime />
+  </UpdateInfo>
+</AutoUpdater>
